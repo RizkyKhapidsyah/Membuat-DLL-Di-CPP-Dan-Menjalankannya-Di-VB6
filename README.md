@@ -5,8 +5,11 @@ Lihat Source Code (Pembuatan DLL di Project C++) : <br>
 - <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/ProjectDLL/ProjectDLL.cpp">ProjectDLL.cpp</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/ProjectDLL/StdAfx.cpp">StdAfx.cpp</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/ProjectDLL/StdAfx.h">StdAfx.h</a><br><br>
+---
 Lihat Source Code (Pemanggilan DLL di Project VB6) : <br>
 - <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/FormUtama.frm">FormUtama</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/ModuleProgram.bas">ModuleProgram</a><br><br>
+---
 Lihat <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/BACA%20SAYA.txt">ReadMe</a><br>
-Lihat <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/ProjectDLL.dll">Download DLL</a>
+---
+Lihat <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/ProjectDLL.dll?raw=true">Download DLL</a>
