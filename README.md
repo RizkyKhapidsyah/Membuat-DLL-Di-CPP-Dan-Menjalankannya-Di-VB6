@@ -12,4 +12,4 @@ Lihat Source Code (Pemanggilan DLL di Project VB6) : <br>
 ---
 Lihat <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/BACA%20SAYA.txt">ReadMe</a><br>
 ---
-Lihat <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/ProjectDLL.dll?raw=true">Download DLL</a>
+Atau: <a href="https://github.com/RizkyKhapidsyah/Membuat-DLL-Di-CPP-Dan-Menjalankannya-Di-VB6/blob/main/MemanggilDLL-DariCPP__VB6/%23file-dll%20(penting)/ProjectDLL.dll?raw=true">Download File DLL</a>
