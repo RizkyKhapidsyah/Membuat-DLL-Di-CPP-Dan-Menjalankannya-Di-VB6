@@ -1,0 +1,11 @@
+file Dynamic Link Library (dll) di folder ini merupakan hasil dari pembuatan DLL yang telah saya buat melalui C++ (lihat project C++ di repositori ini).
+untuk pengguna Windows (khususnya Windows 10) copy-kan file ProjectDLL.dll di folder ini ke direktori : 
+
+C:\Windows\SysWOW64
+
+hal tersebut dilakukan agar dll dapat digunakan ke dalam program/project visual basic Anda.
+Direktori diatas merupakan entry point file library termasuk dll untuk berbagai program, jadi kita tidak perlu registrasikan lagi file dll tersebut menggunakan regsvr32
+
+
+salam,
+Rizky Khapidsyah
